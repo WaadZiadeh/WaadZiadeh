@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hi there 👋 I'm Waad Ziadeh!
+    Hi 👋 I'm Waad Ziadeh!
   </h1>
   <p>
     Welcome to my GitHub profile! I'm a <strong>Computer Engineering Student</strong> at Birzeit University.
