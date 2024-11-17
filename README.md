@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Waad Ziadeh!
 
-Welcome to my GitHub profile! I'm a passionate **Computer Engineering Student** at Birzeit University.
+Welcome to my GitHub profile! I'm a **Computer Engineering Student** at Birzeit University.
 
 ### 🌟 About Me:
 - 🔭 I’m currently working on projects related to **Operating Systems** and **Database Management**. 
