@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 I'm Waad Ziadeh!
 
-<!--
-**WaadZiadeh/WaadZiadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate **Computer Engineering Student** at Birzeit University.
 
-Here are some ideas to get you started:
+### 🌟 About Me:
+- 🔭 I’m currently working on projects related to **Operating Systems** and **Database Management**. 
+- 🌱 I’m currently learning **MIPS Assembly Language** and exploring advanced **multithreading techniques** in C.
+- 💬 Ask me about **C++ Programming**, and **Web Development** (HTML/CSS).
+- ⚡ Fun fact: I enjoy volunteering for events like **ICPC** and fostering connections in the tech community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 My GitHub Stats:
+![Waad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WaadZiadeh&show_icons=true&theme=radical)
+
+### 📫 How to Reach Me:
+- **Email**: waadziadeh@example.com
+- **LinkedIn**: [Waad Ziadeh](https://linkedin.com/in/waadziadeh)
+- **Portfolio**: [My Projects](https://waadziadeh.github.io)
+
+---
+
+✨ *"Code is the language of the future, and I'm here to write my chapter!"* ✨
